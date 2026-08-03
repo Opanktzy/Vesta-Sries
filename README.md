@@ -14,7 +14,7 @@ Vesta Series terbagi menjadi dua sub-sistem utama yang dapat digunakan secara in
 
 | Modul | Direktori | Fitur Utama |
 | :--- | :--- | :--- |
-| **VestaS** | `osint/` | *Enhanced Port Scanner*, pemindaian *multithreading*, dan *banner grabbing*. |
-| **VestaEnc** | `crypto/` | Enkripsi simetris (AES-256), asimetris (RSA/ECC), hashing kata sandi (Argon2id/PBKDF2), dan *secure channels*. |
+| **VestaS** | `OSINT/` | *Enhanced Port Scanner*, pemindaian *multithreading*, dan *banner grabbing*. |
+| **VestaEnc** | `ENC/Vestasenc/` | Enkripsi simetris (AES-256), asimetris (RSA/ECC), hashing kata sandi (Argon2id/PBKDF2), dan *secure channels*. |
 
 ---
