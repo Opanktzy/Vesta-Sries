@@ -1,0 +1,18 @@
+# Virtual Environment
+cyberenv/
+venv/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables (jika nanti menggunakan API key)
+.env
+
+# System Files
+.DS_Store
+cyberenv/
+__pycache__/
